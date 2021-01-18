@@ -28,6 +28,6 @@ def correct_form(number):
         return "D"
     elif(number == 14):
         return "E"
-    elif(number == 15):
+    else:
         return "F"
     

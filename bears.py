@@ -11,7 +11,7 @@ def bears(n):
         return False
     
     #special case: when the bear is not divisible by one of 2, 3, 4, 5 
-    elif n < 0:
+    elif n < 42:
         return False
     
     #reduce
